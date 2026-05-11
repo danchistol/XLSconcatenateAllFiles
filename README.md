@@ -42,7 +42,7 @@ XLSconcatenateAllFiles/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/XLSconcatenateAllFiles.git
+git clone https://github.com/danchistol/XLSconcatenateAllFiles.git
 cd XLSconcatenateAllFiles
 ```
 
