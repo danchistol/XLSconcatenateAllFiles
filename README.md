@@ -65,7 +65,7 @@ ExcelFiles/
 2. Run the script:
 
 ```bash
-python main.py
+XLSconcatenateAllFiles.py
 ```
 
 3. The merged file will be generated as:
